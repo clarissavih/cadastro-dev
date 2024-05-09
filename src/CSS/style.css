@@ -1,4 +1,3 @@
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -27,9 +26,10 @@ h1{
 #cadastrar{
     background-color: #34477a;
     color: white;
+    cursor: pointer;
 }
 #addBtn{
     background-color: rgb(236, 236, 236);
     color: rgb(37, 36, 36);
+    cursor: pointer;
 }
-
